@@ -1,7 +1,7 @@
 %global pypi_name pyphen
 %global pypi_oname Pyphen
 
-%define python3 1
+%define python3 0
 
 Name:           python-%{pypi_name}
 Version:        0.9.1

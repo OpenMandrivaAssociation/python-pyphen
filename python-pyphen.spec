@@ -5,7 +5,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.9.1
-Release:        1
+Release:        2
 Group:          Development/Python
 Summary:        Pure Python module to hyphenate text
 

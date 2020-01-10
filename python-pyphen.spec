@@ -49,7 +49,7 @@ Pure Python module to hyphenate text
 %prep
 %setup -q -n %{pypi_oname}-%{version}
 
-%apply_patches
+%autopatch -p1
 
 %if %python2
 cp -a . %{py2dir}

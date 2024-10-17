@@ -10,7 +10,7 @@ Group:          Development/Python
 Summary:        Pure Python module to hyphenate text
 
 License:        MIT
-URL:            http://pypi.python.org/pypi/%{pypi_name}
+URL:            https://pypi.python.org/pypi/%{pypi_name}
 Source0:        http://pypi.python.org/packages/source/P/%{pypi_oname}/%{pypi_oname}-%{version}.tar.gz
 
 BuildArch:      noarch
